@@ -11,5 +11,5 @@ Implements clean architecture (with interfaces and dependency injection) to cont
 🔗 [View Project on GitHub](https://github.com/Zaptrons/Arduino-Changeover-Controller)
 
 ## 📫 Contact Me
-- Email: norouzihadi1980@gmail.com
+- Email: zaptrons.dev@gmail.com
 - GitHub: [@Zaptrons](https://github.com/Zaptrons)
