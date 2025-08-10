@@ -8,8 +8,8 @@ I'm an electronics and embedded systems enthusiast with over 25 years of hands-o
 A modular C++ project for STM32 using the Arduino framework.  
 Implements clean architecture (with interfaces and dependency injection) to control dual relays based on multiple sensor inputs.
 
-🔗 [View Project on GitHub](https://github.com/HadiNorouzi1980/Arduino-Changeover-Controller)
+🔗 [View Project on GitHub](https://github.com/Zaptrons/Arduino-Changeover-Controller)
 
 ## 📫 Contact Me
 - Email: norouzihadi1980@gmail.com
-- GitHub: [@Zaptrons](https://github.com/HadiNorouzi1980)
+- GitHub: [@Zaptrons](https://github.com/Zaptrons)
